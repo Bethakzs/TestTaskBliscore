@@ -1,0 +1,14 @@
+C:\Users\roman\source\repos\TestTaskBliScore\TestTaskBliScore\bin\Debug\net8.0\TestTaskBliScore.exe
+C:\Users\roman\source\repos\TestTaskBliScore\TestTaskBliScore\bin\Debug\net8.0\TestTaskBliScore.deps.json
+C:\Users\roman\source\repos\TestTaskBliScore\TestTaskBliScore\bin\Debug\net8.0\TestTaskBliScore.runtimeconfig.json
+C:\Users\roman\source\repos\TestTaskBliScore\TestTaskBliScore\bin\Debug\net8.0\TestTaskBliScore.dll
+C:\Users\roman\source\repos\TestTaskBliScore\TestTaskBliScore\bin\Debug\net8.0\TestTaskBliScore.pdb
+C:\Users\roman\source\repos\TestTaskBliScore\TestTaskBliScore\obj\Debug\net8.0\TestTaskBliScore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roman\source\repos\TestTaskBliScore\TestTaskBliScore\obj\Debug\net8.0\TestTaskBliScore.AssemblyInfoInputs.cache
+C:\Users\roman\source\repos\TestTaskBliScore\TestTaskBliScore\obj\Debug\net8.0\TestTaskBliScore.AssemblyInfo.cs
+C:\Users\roman\source\repos\TestTaskBliScore\TestTaskBliScore\obj\Debug\net8.0\TestTaskBliScore.csproj.CoreCompileInputs.cache
+C:\Users\roman\source\repos\TestTaskBliScore\TestTaskBliScore\obj\Debug\net8.0\TestTaskBliScore.dll
+C:\Users\roman\source\repos\TestTaskBliScore\TestTaskBliScore\obj\Debug\net8.0\refint\TestTaskBliScore.dll
+C:\Users\roman\source\repos\TestTaskBliScore\TestTaskBliScore\obj\Debug\net8.0\TestTaskBliScore.pdb
+C:\Users\roman\source\repos\TestTaskBliScore\TestTaskBliScore\obj\Debug\net8.0\TestTaskBliScore.genruntimeconfig.cache
+C:\Users\roman\source\repos\TestTaskBliScore\TestTaskBliScore\obj\Debug\net8.0\ref\TestTaskBliScore.dll
